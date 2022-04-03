@@ -122,7 +122,13 @@ labs = get_labs("https://www.princeton.edu/research/facilities-labs")
 # for i in events:
 #     print(i)
 
-print(major_course_list[0][0])
-print(major_course_list[0][1])
-print(major_course_list[0][2])
-print(major_course_list[0][3])
+# print(major_course_list[0][0])
+# print(major_course_list[0][1])
+# print(major_course_list[0][2])
+# print(major_course_list[0][3])
+
+# for i in major_course_list:
+#     if "COS 326" in i[0]:
+#         print(i)
+# for i in majors_list:
+#     print(i[0])
