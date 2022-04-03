@@ -159,8 +159,33 @@ async def on_message(message):
                         value="Type `$class [Department Name] [Class Number]` to get information about a given class.", inline=False)
         embed.add_field(name="Major",
                         value="Type `$major all` to get all areas of study. Type `$major [department name] to get all courses listed for that area.", inline=False)
+        embed.add_field(name="Calendar",
+                        value="Type `$calendar` to get the dates and descriptions of upcoming events.", inline=False)
         embed.add_field(name="Help",
                         value="Type `$help` to get all commands for this bot.", inline=False)
+        embed.add_field(name="Bot Invite Link",
+                        value="https://discord.com/api/oauth2/authorize?client_id=959889388639240203&permissions=534723946560&scope=bot", inline=False)
+        await message.channel.send(embed=embed)
+
+    if message.content.startswith("$calendar"):
+        events_one = ""
+        events_two = ""
+        events_three = ""
+        cnt = 0
+        for i in major_scrapper.events:
+            if cnt < round(len(major_scrapper.events)/3):
+                events_one += i[0].split(": ", 1)[1] + ": " + i[1] + "\n"
+            elif cnt < round(len(major_scrapper.events)*2/3):
+                events_two += i[0].split(": ", 1)[1] + ": " + i[1] + "\n"
+            else:
+                events_three += i[0].split(": ", 1)[1] + ": " + i[1] + "\n"
+            cnt += 1
+        embed.add_field(name="Calendar",
+                        value=events_one, inline=False)
+        embed.add_field(name="Calendar (Cont.)",
+                        value=events_two, inline=False)
+        embed.add_field(name="Calendar (Cont.)",
+                        value=events_three, inline=False)
         await message.channel.send(embed=embed)
 
 
