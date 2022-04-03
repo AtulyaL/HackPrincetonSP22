@@ -38,4 +38,4 @@ def valid_department(department):
     try:
         return reference.courses[department.upper()]
     except:
-        return "Invalid Department. Please try again"
+        return "Invalid Department. Please try again."
