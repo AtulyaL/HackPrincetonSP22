@@ -27,12 +27,9 @@
 
 # 🧘‍♀️ Light-Bulb Moment
 
-While brainstorming the project ideas for this hackathon, we wanted to make a project which will help the majority of Princeton students in their academic planning. 
+While brainstorming the project ideas for this hackathon, we wanted to make a project which will help the majority of Princeton students in their academic planning.
 
-When choosing courses students often find it chaotic when shortlisting courses. 
-Not just that, even browsing through the courses offered in various majors is tedious due to the sheer volume of data. 
-Switching web pages and remembering where the information is stored is hectic in itself. 
-The student will eventually assemble a completed schedule, but this process is overly time-consuming and tedious. Not to mention the experience of a prospective student - this would be a nightmare for them.
+When choosing courses students often find it chaotic when shortlisting courses. Not just that, even browsing through the courses offered in various majors is tedious due to the sheer volume of data. Switching web pages and remembering where the information is stored is hectic in itself. The student will eventually assemble a completed schedule, but this process is overly time-consuming and tedious. Not to mention the experience of a prospective student - this would be a nightmare for them.
 
 Thus, we present **Pton-Bot**! This is a bot that will ease out this process and make Course-Planning a fun, collaborative experience.
 
