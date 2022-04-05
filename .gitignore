@@ -1,6 +1,6 @@
-__pycache__
-Hack-CEWIT
-Submission
+/__pycache__/*
+/Hack-CEWIT/*
+/Submission/*
 .gitattributes
 botlink.md
 HackPrinceton-main.zip
