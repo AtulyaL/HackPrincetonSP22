@@ -6,7 +6,7 @@
 
 <!-- ------------------------------------------ -->
 
-<h4 align="center">Planning your semester and accessing undergraduage bulleting have never been easier!</h4>
+<h4 align="center">Pton-Bot: A great way to access coursework and plan your semester!</h4>
 
 <p align="center">
   <a href="https://img.shields.io/badge/python-v3.6%2B-blue">
@@ -33,11 +33,9 @@ When choosing courses students often find it chaotic when shortlisting courses. 
 
 Thus, we present **Pton-Bot**! This is a bot that will ease out this process and make Course-Planning a fun, collaborative experience.
 
-<p align="center"> | <b>Pton-Bot</b>  -  Planning your semester and accessing undergraduage bulleting have never been easier! |</p>
-
 # 👀 What is Pton-Bot?
 
-**Pton-Bot** is a Discord Bot that can be used by any student to get information on courses, majors, and planning out their degree.
+**Pton-Bot** is a Discord Bot that can be used by any student to obtain information on courses and majors, and to plan out their degree.
 
 <br>
 
@@ -48,18 +46,18 @@ Thus, we present **Pton-Bot**! This is a bot that will ease out this process and
 
 - **Pton-Bot** can get information about any course from any major
 - A **simple and easy** way to explore courses, majors, and the academic calendar
-- Easy way to access the academic calendar.
+- Allows you to access the academic calendar.
 - Allows you to share and discuss potential classes with peers on Discord.
 
 # 🎮 Features
 
 ### 1. 📬 Summarize
 
-**Pton-Bot** can give you the crux of the course information and summary of the courses, as well as majors offered by the university. Also, it provides the academic calender as posted by the university.
+**Pton-Bot** can give you the crux of the course information, as well as majors offered by the university. Also, it provides the academic calender as posted by the university.
 
 ### 2. 🚀 Versatile
 
-Since this is a Discord bot, it can be added to any discord server! It allows for students to easily search for any course, area of study, or department.
+Since this is a Discord bot, it can be added to any discord server! It allows for students to easily search for any course, area of study, or department, all on Discord.
 
 ###3. ⚛️ Faculty
 
@@ -70,9 +68,6 @@ Since this is a Discord bot, it can be added to any discord server! It allows fo
 <h1 align="center">
   <br>
   <a href="https://github.com/mwei4/HackPrincetonSP22/blob/main/helpcmds.png"><img src="https://github.com/mwei4/HackPrincetonSP22/blob/main/helpcmds.png" alt="Pton-Bot Commands" width="800"></a>
-<!--   <br>
-  Json Schema
-  <br> -->
 </h1>
 
 ## Team members:
