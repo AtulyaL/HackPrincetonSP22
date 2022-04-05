@@ -10,37 +10,6 @@ from discord.ext import commands
 client = commands.Bot(command_prefix="$")
 
 
-# @client.command()
-# async def embed(ctx):
-#     embed = discord.Embed(title="Sample Embed", url="https://realdrewdata.medium.com/",
-#                           description="This is an embed that will show how to build an embed and the different components", color=0xFF5733)
-
-#     embed.set_footer(text="this is a footer")
-#     embed.set_image(
-#         url="https://upload.wikimedia.org/wikipedia/commons/1/15/Princeton_Tigers_logo.png")
-#     embed.set_thumbnail(
-#         url="https://upload.wikimedia.org/wikipedia/commons/1/15/Princeton_Tigers_logo.png")
-#     embed.set_author(name="Michael")
-#     embed.add_field(name="field name", value="field value", inline=False)
-#     embed.add_field(name="field name", value="field value", inline=True)
-#     embed.add_field(name="field name", value="field value", inline=True)
-#     await ctx.send(embed=embed)
-
-
-# @commands.command()
-# async def hello(ctx):
-#     await ctx.send("hello world")
-
-# client.add_command(hello)
-
-
-# @client.command()
-# async def embed(ctx):
-#     embed = discord.Embed(title="Sample Embed", url="https://realdrewdata.medium.com/",
-#                           description="This is an embed that will show how to build an embed and the different components", color=0xFF5733)
-#     await ctx.send(embed=embed)
-
-
 @client.event
 async def on_read():
     # 0 gets replaced with client
@@ -187,28 +156,6 @@ async def on_message(message):
         embed.add_field(name="Calendar (Cont.)",
                         value=events_three, inline=False)
         await message.channel.send(embed=embed)
-
-
-# @client.command()
-# async def displayembed():
-#     embed = discord.Embed(
-#         title="Title",
-#         description="This is a description.",
-#         color=discord.Color.orange()
-#     )
-
-#     embed.set_footer(text="this is a footer")
-#     embed.set_image(
-#         url="https://irs.princeton.edu/sites/g/files/toruqf276/themes/site/logo.svg")
-#     embed.set_thumbnail(
-#         url="https://irs.princeton.edu/sites/g/files/toruqf276/themes/site/logo.svg")
-#     embed.set_author(name="Michael")
-#     embed.add_field(name="field name", value="field value", inline=False)
-#     embed.add_field(name="field name", value="field value", inline=True)
-#     embed.add_field(name="field name", value="field value", inline=True)
-
-#     await client.say(embed=embed)
-
 
 # runs bot
 client.run(private.get_token())
