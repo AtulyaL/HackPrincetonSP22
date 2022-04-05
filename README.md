@@ -56,7 +56,7 @@ Thus, we present **Pton-Bot**! This is a bot that will ease out this process and
 
 Since this is a Discord bot, it can be added to any discord server! It allows for students to easily search for any course, area of study, or department, all on Discord.
 
-###3. ⚛️ Faculty
+### 3. ⚛️ Faculty
 
 **Pton-Bot** also contains calendar details for faculty members. 
 
