@@ -1,3 +1,8 @@
-private.py
-/Hack-CEWIT/*
 /__pycache__/*
+/Hack-CEWIT/*
+/Submission/*
+.gitattributes
+.gitignore
+botlink.md
+HackPrinceton-main.zip
+private.py
