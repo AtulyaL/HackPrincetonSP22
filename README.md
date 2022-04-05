@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/Ye11ow-Flash/HackPrinceton/blob/main/ptonbot-modified.png"><img src="https://github.com/Ye11ow-Flash/HackPrinceton/blob/main/ptonbot-modified.png" alt="ptonbot" width="500"></a>
+  <a href="https://github.com/mwei4/HackPrincetonSP22/blob/main/logo.png"><img src="https://github.com/mwei4/HackPrincetonSP22/blob/main/logo.png" alt="ptonbot" width="500"></a>
 <!--   Pton-Bot -->
 </h1>
 
@@ -72,13 +72,13 @@ Since this is a Discord bot, it can be added to any discord server! It allows fo
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/Ye11ow-Flash/HackPrinceton/blob/main/Botdemo.png"><img src="https://github.com/Ye11ow-Flash/HackPrinceton/blob/main/Botdemo.png" alt="Pton-Bot" width="800"></a>
+  <a href="https://github.com/mwei4/HackPrincetonSP22/blob/main/helpcmds.png"><img src="https://github.com/mwei4/HackPrincetonSP22/blob/main/helpcmds.png" alt="Pton-Bot Commands" width="800"></a>
 <!--   <br>
   Json Schema
   <br> -->
 </h1>
 
 ## Team members:
+- [@michael](https://github.com/mwei4): implemented bulk of bot, including all commands and Discord message formatting
 - [@ye11ow_flash](https://www.linkedin.com/in/jaineel97/): implemented scraping functionality
-- [@michael](https://github.com/mwei4): implemented bulk of bot, including all commands and formatting
 - [@AtulyaL](https://github.com/AtulyaL): involved in initial setup of bot
