@@ -37,9 +37,6 @@ Thus, we present **Pton-Bot**! This is a bot that will ease out this process and
 
 **Pton-Bot** is a Discord Bot that can be used by any student to obtain information on courses and majors, and to plan out their degree.
 
-<br>
-
-
 # 🤖 Why use Pton-Bot?
 
 **Pton-Bot** is designed to help Princeton students in their planning and get precise and concise information from the website
@@ -66,7 +63,6 @@ Since this is a Discord bot, it can be added to any discord server! It allows fo
 # Pton-Bot
 
 <h1 align="center">
-  <br>
   <a href="https://github.com/mwei4/HackPrincetonSP22/blob/main/helpcmds.png"><img src="https://github.com/mwei4/HackPrincetonSP22/blob/main/helpcmds.png" alt="Pton-Bot Commands" width="800"></a>
 </h1>
 
