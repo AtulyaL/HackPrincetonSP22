@@ -12,11 +12,6 @@
   <a href="https://img.shields.io/badge/python-v3.6%2B-blue">
     <img src="https://img.shields.io/badge/python-v3.6%2B-blue">
   </a>
-  
-  <a href="https://img.shields.io/badge/json-%20%7B%3B%7D-orange">
-    <img src="https://img.shields.io/badge/json-%20%7B%3B%7D-orange">
-  </a>
-  
   <a href="https://img.shields.io/badge/discord-Bot-9cf?logo=discord">
     <img src="https://img.shields.io/badge/discord-Bot-9cf?logo=discord">
   </a>
